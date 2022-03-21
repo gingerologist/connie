@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "connie-lib")(type "KiCad")(uri "${KIPRJMOD}/connie-lib.kicad_sym")(options "")(descr ""))
   (lib (name "snap")(type "Legacy")(uri "${KIPRJMOD}/THGBMNG5D1LBAIL/THGBMNG5D1LBAIL.lib")(options "")(descr ""))
+  (lib (name "Connie")(type "KiCad")(uri "${KIPRJMOD}/Connie.kicad_sym")(options "")(descr ""))
 )
